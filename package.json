@@ -1,0 +1,15 @@
+{
+  "name": "classapp-challenge",
+  "version": "1.0.0",
+  "description": "ClassApp Dev Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Teits",
+  "license": "ISC",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.6",
+    "lodash": "^4.17.15"
+  }
+}
